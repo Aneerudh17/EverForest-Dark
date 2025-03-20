@@ -52,9 +52,9 @@ The themes work on versions 40 to 44 of the GNOME D.E. just follow the steps bel
   and if you notice that the theme has not been applied, just close and reopen the application.
 
 
-  ###Other themes with neovim color schemes
+### Other similar themes from the web
 
-| Neovim Colorschemes for GTK | GitHub      | Pling     |
+| Colorschemes for GTK | GitHub      | Pling     |
 | --------------------------- | ----------- | --------- |
 | Catppuccin GTK Theme        | [Source](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) | [Package](https://www.pling.com/p/1715554/) |
 | Everforest GTK Theme        | [Source](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme) | [Package](https://www.pling.com/p/1695467/) |
