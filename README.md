@@ -1,4 +1,7 @@
-# Everforest Dark GTK Theme
+<h1 align="center">Everforest GTK Theme</h1>
+<p align="center">
+  <img alt"Linux Logo" = src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yelow"/>
+  <img alt"CSS Logo" src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3&logoColor=blue"/>
 
 **The theme is more focused on the Gnome Desktop, but supports Cinnamon, XFCE, Mate, and more with generic styles.** It's also perfect for blending into your favorite tiling window managers like **XmonadWM**, **AwesomeWM**, **BSPWM**, and more! It’s **so smooth**, your desktop might just ask you out for coffee ☕.
 
