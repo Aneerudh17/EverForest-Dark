@@ -1,0 +1,17 @@
+2025-03-05 20:29:41.596 [info] Uninstalling extension from the profile: ericsia.pythonsnippets3pro@3.3.2 vscode-userdata:/home/anii/.vscode-oss/extensions/extensions.json
+2025-03-05 20:29:41.655 [info] Marked extension as uninstalled ericsia.pythonsnippets3pro-3.3.2-universal
+2025-03-05 20:29:42.519 [info] Successfully uninstalled extension from the profile ericsia.pythonsnippets3pro@3.3.2 vscode-userdata:/home/anii/.vscode-oss/extensions/extensions.json
+2025-03-05 20:29:47.197 [info] Getting Manifest... ms-python.python
+2025-03-05 20:29:48.292 [info] Installing extension: ms-python.python
+2025-03-05 20:29:49.418 [info] Getting Manifest... ms-python.debugpy
+2025-03-05 20:29:50.298 [info] Installing extension: ms-python.debugpy ms-python.python
+2025-03-05 20:29:53.449 [info] Extension signature verification is not done: ms-python.debugpy
+2025-03-05 20:29:54.209 [info] Extracted extension to file:///home/anii/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2025-03-05 20:29:54.234 [info] Renamed to /home/anii/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2025-03-05 20:29:54.236 [info] Extracting extension completed. ms-python.debugpy
+2025-03-05 20:29:58.730 [info] Extension signature verification is not done: ms-python.python
+2025-03-05 20:30:00.737 [info] Extracted extension to file:///home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal: ms-python.python
+2025-03-05 20:30:00.755 [info] Renamed to /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal
+2025-03-05 20:30:00.761 [info] Extracting extension completed. ms-python.python
+2025-03-05 20:30:00.768 [info] Extension installed successfully: ms-python.debugpy
+2025-03-05 20:30:00.768 [info] Extension installed successfully: ms-python.python

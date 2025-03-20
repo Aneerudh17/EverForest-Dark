@@ -1,0 +1,74 @@
+2025-03-06 09:15:34.317 [info] Telemetry is disabled
+2025-03-06 09:15:34.317 [info] Telemetry level is off
+2025-03-06 09:15:34.317 [info] Experiments are disabled, only manually opted experiments are active.
+2025-03-06 09:15:34.345 [info] Default formatter is set to null for workspace /home/anii/Documents
+2025-03-06 09:15:34.345 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at a.onDidWriteTerminalData (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:30271)
+	at new g (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:747407)
+	at t.resolveInstance (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2008019)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2009927
+	at Array.map (<anonymous>)
+	at t.resolveInstance (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2007793)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2009927
+	at t.resolve (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2010190)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:1993753
+	at e._get (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:1993519)
+	at e.get (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:1992231)
+	at e.dynamicValue (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2015295)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2009416
+	at c (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2008462)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2009356
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2008875
+	at Array.map (<anonymous>)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2008847
+	at Array.map (<anonymous>)
+	at t.resolveInstance (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2007793)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2009927
+	at t.resolve (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2010190)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:1993753
+	at e._get (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:1993519)
+	at e.get (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:1992231)
+	at a.get (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:467094)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:388673
+	at async t.activateComponents (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:386960)
+	at async /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2903459
+	at async e (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2902991)
+	at async E.n (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:6206)
+	at async E.m (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:6169)
+	at async E.l (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:5626)]
+2025-03-06 09:15:34.355 [info] Test server listening.
+2025-03-06 09:15:34.357 [info] Python interpreter path: /bin/python3
+2025-03-06 09:15:34.376 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 25ms, has a falsy return value, Arg 1: <Uri:/home/anii/Documents/test.py>, Arg 2: {"started":1741232734276}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at T.activate (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:776051)
+  	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2460
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2450)]
+]
+2025-03-06 09:15:34.377 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at T.activate (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:776051)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2460
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2450)]
+2025-03-06 09:15:34.377 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at T.activate (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:776051)
+	at /home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2460
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/anii/.vscode-oss/extensions/ms-python.python-2024.2.1-universal/out/client/extension.js:2:2450)]
+2025-03-06 09:15:35.043 [info] Starting Jedi language server for Documents.

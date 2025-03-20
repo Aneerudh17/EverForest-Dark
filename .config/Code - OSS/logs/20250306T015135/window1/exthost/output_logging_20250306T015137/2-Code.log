@@ -1,0 +1,5 @@
+[Running] python -u "/home/anii/Documents/test.py"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.017 seconds
+

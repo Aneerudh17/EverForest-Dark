@@ -1,0 +1,28 @@
+2025-03-06 01:51:59.203 [info] Getting Manifest... ms-vscode.js-debug
+2025-03-06 01:52:00.638 [info] Installing extension: ms-vscode.js-debug
+2025-03-06 01:52:03.149 [info] Extension signature verification is not done: ms-vscode.js-debug
+2025-03-06 01:52:03.272 [info] Extracted extension to file:///home/anii/.vscode-oss/extensions/ms-vscode.js-debug-1.97.1-universal: ms-vscode.js-debug
+2025-03-06 01:52:03.298 [info] Renamed to /home/anii/.vscode-oss/extensions/ms-vscode.js-debug-1.97.1-universal
+2025-03-06 01:52:03.313 [info] Extracting extension completed. ms-vscode.js-debug
+2025-03-06 01:52:03.332 [info] Extension installed successfully: ms-vscode.js-debug
+2025-03-06 01:52:06.436 [info] Getting Manifest... venage5603.tokyo-night-dark-enhanced
+2025-03-06 01:52:06.750 [info] Installing extension: venage5603.tokyo-night-dark-enhanced
+2025-03-05 20:22:11.045 [info] Extension signature verification is not done: venage5603.tokyo-night-dark-enhanced
+2025-03-05 20:22:11.068 [info] Extracted extension to file:///home/anii/.vscode-oss/extensions/venage5603.tokyo-night-dark-enhanced-1.12.0-universal: venage5603.tokyo-night-dark-enhanced
+2025-03-05 20:22:11.073 [info] Renamed to /home/anii/.vscode-oss/extensions/venage5603.tokyo-night-dark-enhanced-1.12.0-universal
+2025-03-05 20:22:11.075 [info] Extracting extension completed. venage5603.tokyo-night-dark-enhanced
+2025-03-05 20:22:11.083 [info] Extension installed successfully: venage5603.tokyo-night-dark-enhanced
+2025-03-05 20:22:50.363 [info] Getting Manifest... formulahendry.code-runner
+2025-03-05 20:22:50.667 [info] Installing extension: formulahendry.code-runner
+2025-03-05 20:22:52.729 [info] Extension signature verification is not done: formulahendry.code-runner
+2025-03-05 20:22:52.883 [info] Extracted extension to file:///home/anii/.vscode-oss/extensions/formulahendry.code-runner-0.12.2-universal: formulahendry.code-runner
+2025-03-05 20:22:52.886 [info] Renamed to /home/anii/.vscode-oss/extensions/formulahendry.code-runner-0.12.2-universal
+2025-03-05 20:22:52.890 [info] Extracting extension completed. formulahendry.code-runner
+2025-03-05 20:22:52.902 [info] Extension installed successfully: formulahendry.code-runner
+2025-03-05 20:23:23.969 [info] Getting Manifest... ericsia.pythonsnippets3pro
+2025-03-05 20:23:24.300 [info] Installing extension: ericsia.pythonsnippets3pro
+2025-03-05 20:23:25.796 [info] Extension signature verification is not done: ericsia.pythonsnippets3pro
+2025-03-05 20:23:25.817 [info] Extracted extension to file:///home/anii/.vscode-oss/extensions/ericsia.pythonsnippets3pro-3.3.2-universal: ericsia.pythonsnippets3pro
+2025-03-05 20:23:25.819 [info] Renamed to /home/anii/.vscode-oss/extensions/ericsia.pythonsnippets3pro-3.3.2-universal
+2025-03-05 20:23:25.821 [info] Extracting extension completed. ericsia.pythonsnippets3pro
+2025-03-05 20:23:25.832 [info] Extension installed successfully: ericsia.pythonsnippets3pro

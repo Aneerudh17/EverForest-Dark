@@ -1,0 +1,9 @@
+2025-01-29 12:30:46.279 [info] Extension host with pid 3013 started
+2025-01-29 12:30:46.307 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-29 12:30:46.321 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-29 12:30:46.402 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-29 12:30:46.485 [info] Eager extensions activated
+2025-01-29 12:30:46.500 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 12:30:46.503 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 12:30:54.785 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-29 12:30:54.789 [info] Extension host with pid 3013 exiting with code 0

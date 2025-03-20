@@ -1,0 +1,9 @@
+2025-03-06 01:51:39.577 [error] Offline: Offline
+    at y.onerror (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:78:1328)
+2025-03-06 01:51:40.293 [info] [perf] Render performance baseline is 27ms
+2025-03-06 01:51:42.864 [error] Offline: Offline
+    at y.onerror (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:78:1328)
+2025-03-06 01:51:54.376 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:78:1261)
+2025-03-05 20:23:25.916 [error] [EricSia.pythonsnippets3pro]: Unknown language in `contributes.pythonsnippets3pro.language`. Provided value: django-html
+2025-03-05 20:23:25.917 [error] [EricSia.pythonsnippets3pro]: Unknown language in `contributes.pythonsnippets3pro.language`. Provided value: django-txt

@@ -1,0 +1,14 @@
+2025-03-05 20:25:46.228 [error] [EricSia.pythonsnippets3pro]: Unknown language in `contributes.pythonsnippets3pro.language`. Provided value: django-html
+2025-03-05 20:25:46.229 [error] [EricSia.pythonsnippets3pro]: Unknown language in `contributes.pythonsnippets3pro.language`. Provided value: django-txt
+2025-03-05 20:25:48.635 [info] [perf] Render performance baseline is 27ms
+2025-03-05 20:30:00.830 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-03-05 20:30:00.831 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-03-05 20:30:00.996 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-03-05 20:30:55.213 [error] Unable to read file '/home/anii/Documents/test.py' (Error: File not modified since): Error: Unable to read file '/home/anii/Documents/test.py' (Error: File not modified since)
+    at r.w (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:630:16316)
+    at r.v (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:630:16204)
+    at async b.H (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:37067)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:36824)
+    at async L.zb (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2329:29196)
+    at async L.resolve (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2329:27643)
+    at async vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:32937
