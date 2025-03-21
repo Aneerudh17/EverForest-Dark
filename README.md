@@ -37,7 +37,7 @@ sudo apt install gtk2-engines-murrine
 ```
 ## Alternative Installation
 
-The themes work on versions 40 to 44 of the GNOME D.E. just follow the steps below for installation:
+The themes work on versions 4.0 to 4.4 of the GNOME D.E. just follow the steps below for installation:
 
 - Download the [themes](https://www.pling.com/u/fkorpsvart) packs and extract them
 - Move the extracted files to the following paths:
