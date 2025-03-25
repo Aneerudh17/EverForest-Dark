@@ -4,7 +4,6 @@
 # You can simply delete the folder incase if you dont like it or wish to change it
 
 echo "Welcome to My Gnome Setup installation!"
-
 # Install Everforest GTK theme
 echo -e "\nInstalling Everforest GTK theme..."
 mkdir -p ~/.themes
@@ -29,5 +28,5 @@ cp ./fonts ~/.fonts/
 # Optional: Instructions for installing GNOME Shell extensions (if used)
 echo -e "\nIf you use GNOME Shell extensions, you can find them at https://extensions.gnome.org/."
 echo "Please install any extensions I use from there."
-
+echo "Please choose the EverForest-Dark theme from the gnome-tweaks"
 echo -e "\nInstallation complete! Please restart your session for all changes to take effect."
